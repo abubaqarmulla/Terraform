@@ -18,6 +18,7 @@ terraform -version
 ## Add AWS Access Key and Secret Key from your aws account
 
 export AWS_ACCESS_KEY_ID="AKIA2CFZWHSYRQOQAD7N"
+
 export AWS_SECRET_ACCESS_KEY="f/yKfhBaKiwmneZCrsJfD2mFVcG4uNNbw0o6s7mZ"
 
 ## Write Terraform file and deploy
