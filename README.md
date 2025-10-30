@@ -23,7 +23,11 @@ export AWS_SECRET_ACCESS_KEY="f/yKfhBaKiwmneZCrsJfD2mFVcG4uNNbw0o6s7mZ"
 ## Write Terraform file and deploy
 
 vi main.tf
+
 terraform init
+
 terraform plan
+
 terraform apply
+
 terraform destroy
